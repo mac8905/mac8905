@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel
 - 👀 I’m interested in JavaScript, NodeJS, AWS, Kotlin, GraphQL, Containerization, Test, Automation...
-- 🌱 I’m currently learning the Kotlin, GraphQL, AWS. But also reinforcing concepts of good practices.
+- 🌱 I’m currently learning Kotlin, GraphQL, and AWS. But also reinforcing concepts of good practices.
 - 💞️ I'm looking to collaborate on JavaScript / NodeJS repositories to get started.
 - 📫 How to reach me? On twitter as @mcaro_89
 
